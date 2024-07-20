@@ -1,6 +1,13 @@
-# 2024_OkIP
-OkIP 2024
-- https://eventutor.com/event/41/
-- https://releasetrain.io/reddit.html?q=android,linux,windows,ios,kotlin,swift,nodejs,react,java
-- fetchData.py
-- enrich.py
+OkIP 2024 Conference:
+- URL: https://eventutor.com/event/41/
+- Track: "Software Design, Testing, Evolution, and Maintenance" (A- Technical/Research)
+
+Prototype:
+- URL: https://releasetrain.io/reddit.html?q=android,linux,windows,ios,kotlin,swift,nodejs,react,java
+
+Source Code:
+- fetchData.py: 
+- enrich.py:
+
+Data Source:
+- API: 
