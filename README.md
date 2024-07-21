@@ -6,8 +6,8 @@ Prototype:
 - URL: https://releasetrain.io/reddit.html?q=android,linux,windows,ios,kotlin,swift,nodejs,react,java
 
 Source Code:
-- fetchData.py: Fetch data from Reddit and post it to release notes server
-- enrich.py:
+- fetchData.py: Fetch data from Reddit and merge it with server release notes
+- enrich.py: Classify and enrich release notes based on Reddit data
 
 Data Source:
 - API: Fetch latest release notes https://releasetrain.io/api/component
