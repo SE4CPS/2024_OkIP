@@ -83,7 +83,7 @@ model_component = make_pipeline(CountVectorizer(), LogisticRegression())
 model_security = make_pipeline(CountVectorizer(), LogisticRegression())
 model_breaking = make_pipeline(CountVectorizer(), LogisticRegression())
 
-client = pymongo.MongoClient("mongodb+srv://dev:8Lhs45R0m3SzRREQ@cluster0-rzt9l.mongodb.net/test?retryWrites=true&w=majority")
+client = pymongo.MongoClient("database connection")
 database = client.releasetrain
 collection = database.versions
 
