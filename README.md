@@ -10,4 +10,4 @@ Source Code:
 - enrich.py:
 
 Data Source:
-- API: 
+- API: Fetch latest release notes https://releasetrain.io/api/component
